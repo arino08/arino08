@@ -1,19 +1,7 @@
-# Hi, I'm Aariz 👋
+I like owning the whole stack — systems programming in Rust underneath, Next.js and motion design on top.
 
-Full-stack developer who likes owning the whole stack — **Rust and systems programming underneath, Next.js and motion design on top**. Information Technology engineering student in Mumbai, graduating 2027.
+Most of what I know comes from building things that already exist, from scratch, to understand why they work. [FlashKV](https://github.com/arino08/flashkv) is a Redis-compatible in-memory database in Rust: 46 commands, a 64-shard concurrent storage engine, and a zero-copy RESP parser ([crates.io](https://crates.io/crates/flashkv)). [Rustyload](https://github.com/arino08/rustyload) is the dual-protocol load tester I wrote to benchmark it honestly, with p50/p95/p99 latency reporting ([crates.io](https://crates.io/crates/rustyload)). Both ship with documentation series explaining every design decision, because writing something down is how I check that I actually understand it.
 
-## Things I've built from scratch
+On the web side I built [Prism](https://github.com/arino08/PRISM), an AI code-review platform — GPT-4 plus deterministic pattern analysis, RAG chat over Weaviate, automated PR reviews via GitHub Actions — and [my portfolio](https://aariz.vercel.app), which runs on a Supabase CMS I wrote for it and includes a working in-page shell and a Rust→WASM ray tracer you can orbit (29 KB, hand-written bindings, no wasm-bindgen).
 
-- 🗄️ **[FlashKV](https://github.com/arino08/flashkv)** — a Redis-compatible in-memory database in Rust: 46 commands, 64-shard concurrent storage engine, zero-copy RESP parser, 69 tests · [crates.io](https://crates.io/crates/flashkv)
-- ⚡ **[Rustyload](https://github.com/arino08/rustyload)** — a dual-protocol (HTTP + raw TCP) load tester with p50/p95/p99 latency stats, built to benchmark FlashKV honestly · [crates.io](https://crates.io/crates/rustyload)
-- 🔍 **[Prism](https://github.com/arino08/PRISM)** — an AI code review & documentation platform: GPT-4 + deterministic pattern analysis, RAG chat over Weaviate, automated PR reviews via GitHub Actions · [live](https://prismcodereview.vercel.app)
-- 🌐 **[This portfolio](https://aariz.vercel.app)** — Next.js + a Supabase CMS I built for it, a working in-page shell (press `~`), and a Rust→WASM ray tracer you can orbit — 29 KB, no wasm-bindgen · [source](https://github.com/arino08/Aariz-Sheikh)
-
-## Currently
-
-- 📚 Going deeper on systems programming: async runtimes, network protocols, database internals
-- 💼 Open to internships and junior roles — backend, systems, or full-stack
-
-## Find me
-
-[**Portfolio**](https://aariz.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/aariz-sheikh-384432307/) · [**X**](https://x.com/Sheikh12Ariz) · arizsheikh17@gmail.com
+I'm an IT engineering student in Mumbai, graduating 2027, open to internships and junior roles in backend, systems, or full-stack work. Reach me at arizsheikh17@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/aariz-sheikh-384432307/) and [X](https://x.com/Sheikh12Ariz).
