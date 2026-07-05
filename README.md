@@ -4,4 +4,4 @@ Most of what I know comes from building things that already exist, from scratch,
 
 On the web side I built [Prism](https://github.com/arino08/PRISM), an AI code-review platform — GPT-4 plus deterministic pattern analysis, RAG chat over Weaviate, automated PR reviews via GitHub Actions — and [my portfolio](https://aariz.vercel.app), which runs on a Supabase CMS I wrote for it and includes a working in-page shell and a Rust→WASM ray tracer you can orbit (29 KB, hand-written bindings, no wasm-bindgen).
 
-I'm an IT engineering student in Mumbai, graduating 2027, open to internships and junior roles in backend, systems, or full-stack work. Reach me at arizsheikh17@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/aariz-sheikh-384432307/) and [X](https://x.com/Sheikh12Ariz).
+I'm an IT engineering student in Mumbai, graduating 2027, open to internships and junior roles in backend, systems, or full-stack work. Reach me at arinopc22@gmail.com, or find me on [LinkedIn](https://www.linkedin.com/in/aariz-sheikh-384432307/) and [X](https://x.com/Sheikh12Ariz).
